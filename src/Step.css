@@ -1,0 +1,10 @@
+label {
+  font-weight: 1000;
+  color: rgb(235, 12, 12);
+  margin-right: 10px;
+}
+
+input {
+  margin-top: 20px;
+  padding: 5px;
+}
